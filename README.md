@@ -1,4 +1,7 @@
 # GFS_NOW_FORCAST_CLOUDS_JAYTVISION
+now with Google PhotoRealistic 3d Tiles!!! in beta
+...soon to implement cloud layer and integrate fishmap with weather/reporting points
+
 This is too cool...Full clouds on Cesium Globe with Google Traffic.....3d Clouds.
 
 just add an optional cesium ion token and optional google javascripr api key cert and key
